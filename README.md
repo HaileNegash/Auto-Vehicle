@@ -27,5 +27,17 @@ A powerful editor utility for Godot 4 that automates the tedious process of rigg
 ## Contributing
 Feedback and Pull Requests are welcome. If you find a bug or want to support more suspension types, please open an issue!
 
+
+
 ## License
 MIT License
+
+## 🚀 Show Your Support
+If this addon saved you hours of manual rigging, please consider supporting the project:
+
+* **⭐ Star this Repo:** It helps more Godot developers find this tool!
+* **📺 Subscribe on YouTube: (https://www.youtube.com/channel/UCLC9NPQRXbGpf9Pr7bYy-9w) – I post devlogs, tutorials, and updates on this addon.
+* **💬 Follow on Reddit:*https://www.reddit.com/user/No_Zookeepergame9004– I share behind-the-scenes progress and game dev tips here.
+* **📢 Spread the Word:** If you use this in your game, feel free to tag me or share a video! I love seeing what the community builds with it.
+
+*Your support helps me dedicate more time to improving this tool and adding new features like [insert your next planned feature, e.g., 6-wheel support].*
